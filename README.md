@@ -13,7 +13,7 @@ Dejo acá toda la información acerca de la materia
   
  - Si vos ya sabes ingles estas bien para la materia, pero tenes que ver el formato del parcial porque quiere q sepas la clasificacion de conectores, que es el paratexto, que son los cognados, etc (Todas las cosas que dan en las clases)
 
-- Yo llegue tarde a todas las clases y no me dijo nada, pero tenes que ir pq toma lista la mayoria de las clases. Te hace hacer un TP3 bastante light si tenes mas de 3 faltas, me llevo 20 minutos hacerlo
+- Yo llegue tarde a todas las clases y no me dijo nada, pero tenes que ir pq toma lista la mayoria de las clases. Te hace hacer un TP3 bastante light si tenes mas de 3 faltas
 - Dejame estrella arriba para atraer buena suerte ajaj
 - Si haces algun TP con ChatGPT se da cuenta si no modificas nada, pero si modificas mucho el texto no se da cuenta. 
   En cualquier caso si se da cuenta, despues te pide que lo hagas devuelta y listo. Creo que no llevan nota los TPs (son 2 uno antes del parcial y uno antes del final)
