@@ -7,7 +7,7 @@ Dejame una ⭐!
 No encontré drives ni material de esta materia
 Dejo acá toda la información acerca de la materia
 
-- En los parciales no reprobó nadie, y despues Spizzo me comentó que solo reprobó un examen y fue hace años. 
+- En los parciales no reprobó nadie, y despues Spizzo me comentó que solo reprobó un examen de la materia y fue hace años. 
 - En los parciales hay que leer textual, en el que subi (solo me dejo subir las consignas) hay un punto que dice
   de hacer algo mental. Para tener ese punto bien, habia que literalmente no hacer nada, yo escribi algo y ni siquiera lo corrigió, nada mas te pone como mal el punto si tenias algo escrito. (Me dijo que si ponias que interpretabas que no habia que hacer nada tambien te daba el punto completo). 
   
