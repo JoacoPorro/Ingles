@@ -14,7 +14,7 @@ Dejo acá toda la información acerca de la materia
  - Si vos ya sabes ingles estas bien para la materia, pero tenes que ver el formato del parcial porque quiere q sepas la clasificacion de conectores, que es el paratexto, que son los cognados, etc (Todas las cosas que dan en las clases)
 
 - Yo llegue tarde a todas las clases y no me dijo nada, pero tenes que ir pq toma lista la mayoria de las clases
-- Dejame estrella arriba para buena suerte. Se agradece
+- Dejame estrella arriba para buena suerte. Muchas gracias
 - Si haces algun TP con ChatGPT se da cuenta si no modificas nada, pero si modificas mucho el texto no se da cuenta. 
   En cualquier caso si se da cuenta, despues te pide que lo hagas devuelta y listo. Creo que no llevan nota los TPs (son 2 uno antes del parcial y uno antes del final)
 - En los TPs si tenes algo mal, te dice que es y te pide que lo corrijas, y creo que no pasa nada. Yo entregue un TP todo incompleto y no me dijo casi nada, me dijo que agregue 2-3 cosas y me aprobo despues
