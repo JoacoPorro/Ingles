@@ -21,4 +21,6 @@ Dejo acá toda la información acerca de la materia
 - El final (o el ultimo parcial) es muy similar a los ultimos 3 actividades (no digo 3 ejercicios, 3 actividades) del cuadernillo de actividades(Esta en la repo la version de 2023, que sospecho no la cambia hace mucho)
 - Corrige tildes
 
-Si alguno hace un drive de la materia puede pasarmelo al jporro@fi.uba.ar asi lo subo a esta repo
+Si alguno hace un drive de la materia puede pasarmelo al jporro@fi.uba.ar asi lo subo a esta repo. 
+
+VLLC!
