@@ -15,7 +15,7 @@ Dejo acá toda la información acerca de la materia
 - Si haces algun TP con ChatGPT se da cuenta si no modificas nada, pero si modificas mucho el texto no se da cuenta. 
   En cualquier caso si se da cuenta, despues te pide que lo hagas devuelta y listo. Creo que no llevan nota los TPs (son 2 uno antes del parcial y uno antes del final)
 - En los TPs si tenes algo mal, te dice que es y te pide que lo corrijas, y creo que no pasa nada. Yo entregue un TP todo incompleto y no me dijo casi nada, me dijo que agregue 2-3 cosas y me aprobo despues
-- El final (o el ultimo parcial) es muy similar a los ultimos 3 actividades (no digo 3 ejercicios, 3 actividades) del cuadernillo de actividades
+- El final (o el ultimo parcial) es muy similar a los ultimos 3 actividades (no digo 3 ejercicios, 3 actividades) del cuadernillo de actividades(Esta en la repo la version de 2023, que sospecho no la cambia hace mucho)
   
 
 Si alguno hace un drive de la materia puede pasarmelo al jporro@fi.uba.ar asi lo subo a esta repo
