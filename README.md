@@ -2,10 +2,10 @@
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
 ##### Dejame una ⭐!
 ## Tips:
-- En los parciales no reprobó nadie, y despues Spizzo me comentó que solo reprobó un examen de la materia y fue hace años. 
-- En los parciales hay que leer textual, en el que subi (solo me dejo subir las consignas) hay un punto que dice
+#### - En los parciales no reprobó nadie, y despues Spizzo me comentó que solo reprobó un examen de la materia y fue hace años. 
+#### - En los parciales hay que leer textual, en el que subi (solo me dejo subir las consignas) hay un punto que dice
   de hacer algo mental. Para tener ese punto bien, habia que literalmente no hacer nada, yo escribi algo y ni siquiera lo corrigió, nada mas te pone como mal el punto si tenias algo escrito. (Me dijo que si ponias que interpretabas que no habia que hacer nada tambien te daba el punto completo). 
- - Si vos ya sabes ingles estas bien para la materia, pero tenes que ver el formato del parcial porque quiere q sepas la clasificacion de conectores, que es el paratexto, que son los cognados, etc (Todas las cosas que dan en las clases)
+#### - Si vos ya sabes ingles estas bien para la materia, pero tenes que ver el formato del parcial porque quiere q sepas la clasificacion de conectores, que es el paratexto, que son los cognados, etc (Todas las cosas que dan en las clases)
 - Yo llegue tarde a todas las clases y no me dijo nada, pero tenes que ir pq toma lista la mayoria de las clases. Te hace hacer un TP3 bastante light si tenes mas de 3 faltas
 - Dejame estrella arriba para atraer buena suerte ajaj
 - Si haces algun TP con ChatGPT se da cuenta si no modificas nada, pero si modificas mucho el texto no se da cuenta. 
