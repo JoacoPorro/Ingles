@@ -2,7 +2,7 @@
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
 ##### Dejame una ⭐!
 
-No encontré drives ni material de esta materia
+## No encontré drives ni material de esta materia
 Tips:
 - En los parciales no reprobó nadie, y despues Spizzo me comentó que solo reprobó un examen de la materia y fue hace años. 
 - En los parciales hay que leer textual, en el que subi (solo me dejo subir las consignas) hay un punto que dice
