@@ -1,8 +1,6 @@
 # Idioma Inglés
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
 ##### Dejame una ⭐!
-
-No encontré drives ni material de esta materia
 ## Tips:
 - En los parciales no reprobó nadie, y despues Spizzo me comentó que solo reprobó un examen de la materia y fue hace años. 
 - En los parciales hay que leer textual, en el que subi (solo me dejo subir las consignas) hay un punto que dice
@@ -15,5 +13,6 @@ No encontré drives ni material de esta materia
 - En los TPs si tenes algo mal, te dice que es y te pide que lo corrijas, y creo que no pasa nada. Yo entregue un TP todo incompleto y no me dijo casi nada, me dijo que agregue 2-3 cosas y me aprobo despues
 - El final (o el ultimo parcial) es muy similar a los ultimos 3 actividades (no digo 3 ejercicios, 3 actividades) del cuadernillo de actividades(Esta en la repo la version de 2023, que sospecho no la cambia hace mucho)
 - Corrige tildes
+- No encontre ningun drive ni material de esta materia, si alguno consigue uno, pasemelo al mail de arriba. Muchas gracias
 
 VLLC!
