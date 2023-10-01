@@ -1,7 +1,9 @@
 # Idioma Inglés - Spizzo
 ###### Drives a jporro@fi.uba.ar
 
-## Arriba dejo todo el material que tengo. No encontre drives (pero la verdad la materia es muy facil, no hace falta ver resueltos ni nada)
+## Material 
+- Parcial
+- Cuadernillo
 ## Tips:
 #### - En los parciales no reprobó nadie, y despues Spizzo me comentó que solo reprobó un examen de la materia y fue hace años. 
 #### - En los parciales hay que leer textual, en el que subi (solo me dejo subir las consignas) hay un punto que dice de hacer algo mental. Para tener ese punto bien, habia que literalmente no hacer nada, yo escribi algo y ni siquiera lo corrigió, nada mas te pone como mal el punto si tenias algo escrito. (Me dijo que si ponias que interpretabas que no habia que hacer nada tambien te daba el punto completo). 
