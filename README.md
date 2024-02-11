@@ -1,5 +1,4 @@
 # Idioma Inglés - Spizzo 1C 2023
-###### Drives a jporro@fi.uba.ar
 
 ## Material 
 - [Parcial](https://github.com/jporro/Ingles/blob/main/Parcial%20Ingl%C3%A9s%20-%20C%C3%A1tedra%20Spizzo%201C2023.pdf)
