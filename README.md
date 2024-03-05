@@ -14,7 +14,7 @@
 #### - En los TPs si tenes algo mal, te dice que es y te pide que lo corrijas, y creo que no pasa nada. Yo entregue un TP todo incompleto y no me dijo casi nada, me dijo que agregue 2-3 cosas y me aprobo despues
 #### - El final (o el ultimo parcial) es muy similar a los ultimos 3 actividades (no digo 3 ejercicios, 3 actividades) del cuadernillo de actividades (Esta arriba la version de 2023, que sospecho no la cambia hace mucho)
 #### - Corrige las tildes como los profes del secundario y baja puntos
-#### - No encontre ningun drive ni material de esta materia, si alguno consigue uno, pasemelo al mail de arriba
+#### - No encontre ningun drive ni material de esta materia, si alguno consigue uno, pasemelo al mail en mi perfil
 
 ### Deja **⭐** Arriba
 ### Viva la Libertad Carajo!
